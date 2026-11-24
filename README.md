@@ -5,7 +5,9 @@
 📌**Latar Belakang Project**
 
   Project MyBYL dibuat untuk memenuhi tugas pembelajaran pada mata kuliah **Pengembang Aplikasi Mobile** dengan dosen pengampu **Miss Teresa Sofiani Tamba, S.Kom., M.Kom., Ph.D (cand.).**
+  
   Selain sebagai pemenuhan tugas perkuliahan, aplikasi ini juga terinspirasi dari ketertarikan saya terhadap dunia membaca dan mengoleksi buku. Saya memiliki ketertarikan pada berbagai jenis bacaan, seperti buku pengembangan diri, motivasi, psikologi, dan tema lainnya. 
+  
   Dari ketertarikan tersebut, saya mendapatkan ide untuk membuat aplikasi yang dapat membantu pengguna mencari, membeli, dan menyimpan koleksi buku dalam satu platform digital. Bagi saya, MyBYL bukan hanya sebuah aplikasi, tetapi juga sebuah karya yang berawal dari kecintaan terhadap buku dan keinginan untuk mengembangkan sesuatu yang bermanfaat bagi orang lain.
 
 🎯**Tujuan Project**
@@ -103,6 +105,7 @@ MyBYL/
 🌷**Harapan Pengembangan**
 
   Melalui pembuatan aplikasi MyBYL ini, saya berharap project yang dikerjakan dapat memenuhi syarat dan ketentuan tugas yang telah diberikan oleh dosen pengampu mata kuliah Pengembang Aplikasi. Selain itu, saya berharap aplikasi ini dapat menjadi salah satu bentuk penerapan ilmu dan keterampilan yang telah saya pelajari selama perkuliahan.☺️☺️
+  
   Saya juga berharap MyBYL tidak hanya berhenti sebagai tugas perkuliahan, tetapi dapat terus saya kembangkan di masa mendatang dengan menambahkan fitur-fitur baru, memperbaiki kekurangan yang masih ada, serta meningkatkan kualitas dan kenyamanan aplikasi agar dapat memberikan manfaat bagi lebih banyak pengguna.
 
 **MyBYL – Berawal dari hobi membaca, menjadi sebuah karya digital.** 💜
