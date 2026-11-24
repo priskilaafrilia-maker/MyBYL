@@ -12,7 +12,7 @@
 
 🎯**Tujuan Project**
 
-1. Memenuhi tugas pembelajaran mata kuliah Pengembang Aplikasi.
+1. Memenuhi tugas pembelajaran mata kuliah Pengembang Aplikasi Mobile.
 2. Menerapkan ilmu pemrograman mobile yang telah dipelajari selama perkuliahan.
 3. Mengembangkan aplikasi Android menggunakan Kotlin dan Android Studio.
 4. Membuat platform toko buku dan perpustakaan digital yang praktis dan mudah digunakan.
@@ -95,6 +95,7 @@ MyBYL/
 
 - **Nama:** Priskila Afrilia Siloam
 - **Program Studi:** Sistem Informasi Bisnis
+- NIM: 2024140020
 - **Mata Kuliah:** Pengembang Aplikasi Mobile
 - **Dosen Pengampu:** Miss Teresa Sofiani Tamba, S.Kom., M.Kom., Ph.D (cand.)
 - **Nama Aplikasi:** MyBYL
